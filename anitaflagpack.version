@@ -1,0 +1,10 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/AnitaNeko/Anita-Flag-Pack/main/anitaflagpack.version",
+	"modName":"Anita Flag Pack",
+	"modVersion":
+	{
+		"major":1,
+		"minor":0,
+		"patch":0
+	},
+}
